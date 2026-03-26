@@ -1,4 +1,5 @@
 # AGENT PRINCIPLEX
+by Opus. 4.6
 
 ## A Fork Manifesto for Explainable Autonomous Research
 
